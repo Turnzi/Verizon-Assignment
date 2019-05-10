@@ -3,6 +3,8 @@ Aaron Turner Verizon Assignment
 
 Built the project using ReactJS , Javascript , Webpack , Babel , Material UI
 
+TO RUN --- NPM START
+
 <b>1. User Input Validation
 Add functionality to our “Let us send you our newsletter” module which will validate user input email address and message the user appropriately on valid or invalid inputs.</b>
 
