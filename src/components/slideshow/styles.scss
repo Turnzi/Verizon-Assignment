@@ -1,0 +1,55 @@
+
+.slideshow {
+  margin-bottom: 10px;
+
+  .placeholder {
+    color: white;
+    text-align: center;
+    height: 420px !important;
+
+    .carousel {
+      max-height: 420px !important;
+
+      .legend {
+        opacity: 0.8 !important;
+        background: white !important;
+        color: black !important;
+
+        a {
+          cursor: pointer !important;
+        }
+      }
+
+      .title {
+        bottom: 21rem !important;
+        font-size: 25px !important;
+
+      }
+
+      .summary {
+        bottom: 0rem !important;
+        font-size: 18px !important;
+      }
+
+      .hide {
+        display: none !important;
+      }
+
+      .thumbs-wrapper {
+        display: none !important;
+      }
+
+      .control-dots {
+        display: none !important;
+      }
+
+      .slider-wrapper {
+        max-height: inherit;
+      }
+
+      ul.slider {
+        max-height: inherit;
+      }
+    }
+  }
+}
